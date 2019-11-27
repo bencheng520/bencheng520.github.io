@@ -7,7 +7,7 @@
 * [java](technology/java/index.md)
 * [tomcat](technology/tomcat/index.md)
 * [spring]()
-* [mybatis]()
+* [mybatis](technology/mybatis/index.md)
 * [dubbo]()  
 
 ##### 大数据
