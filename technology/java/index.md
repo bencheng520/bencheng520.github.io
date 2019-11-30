@@ -7,6 +7,7 @@
 * [分布式锁]()
 * [hashmap]()
 * [jdk并发和锁]()
+* [代理](md/proxy.md)
 * spi
     * jdk原生
     * spring（boot）的spi

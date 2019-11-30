@@ -10,6 +10,14 @@
     1. Mybatis的插件借助于责任链的模式进行对拦截的处理
     2. 使用动态代理对目标对象进行包装，达到拦截的目的
     3. 作用于Mybatis的作用域对象之上
+    
+* 日志原理
+    - [日志原理](../logger/index.md)
+    
+* 事务原理
+    - 定义自己的事务接口Transaction
+    - 通过实现Transaction接口获得不同的事务支持JdbcTransaction/ManagedTransaction
+    - 定义一个事务工厂接口TransactionFactory和实现不同的事务工厂
 
 ##### 初始化
 * 核心对象
@@ -43,6 +51,8 @@
     - newStatementHandler通过interceptorChain.pluginAll(statementHandler)应用插件
     - 插件对象Plugin实现jdk的InvocationHandler接口，jdk动态代理对象成功应用插件
 * 事物的实现
+    - jdk没有事务接口
+    - [《深入理解mybatis原理》 MyBatis事务管理机制](https://www.cnblogs.com/yixiu868/p/8143039.html)
     - \<transactionManager type="JDBC"/\>
     - type可以取值为：JDBC、MANAGED
         * JDBC ：这个配置就是直接使用了 JDBC 的提交和回滚设置，它依赖于从数据源得到的连接来管理事务作用域。即利用java.sql.Connection对象完成对事务的提交（commit()）、回滚（rollback()）、关闭（close()）等

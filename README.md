@@ -10,6 +10,7 @@
 * [spring](technology/spring/index.md)
 * [mybatis](technology/mybatis/index.md)
 * [dubbo]()  
+* [logging](technology/logger/index.md)
 
 ##### 大数据
 
@@ -18,7 +19,8 @@
 
 ### **工作栏目**
 
-* [业务架构](work/index.md)
+* [事务原理](work/transaction/index.md)
+* [业务架构](work/company/index.md)
 * [链路追踪]()
 * [熔断降级]()
 
