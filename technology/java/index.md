@@ -4,7 +4,7 @@
 * [类加载器](md/类加载器.md)
 * [ThreadLocal](md/ThreadLocal.md)
 * [垃圾回收]()
-* [分布式锁]()
+* [分布式锁](md/分布式锁.md)
 * [hashmap]()
 * [jdk并发和锁]()
 * [代理](md/proxy.md)
