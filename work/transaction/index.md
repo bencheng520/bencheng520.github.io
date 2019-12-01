@@ -1,6 +1,18 @@
 ### 事务系列
 
+#### 核心文章[关于分布式事务，XA协议的学习笔记](https://www.cnblogs.com/monkeyblog/p/10449363.html)
+
 * Transaction不是JDK接口，特别注意
+* 目前JTA的实现主要有以下几种：
+    - J2EE容器所提供的JTA实现(如JBoss)
+    - 独立的JTA实现：如JOTM（Java Open Transaction Manager），Atomikos。这些实现可以应用在那些不使用J2EE应用服务器的环境里用以提供分布事事务保证
+* 分布式事务的实现方式
+    - 2pc（强一致性）
+    - 3pc
+    - tcc（最终一致性）
+    - 本地消息表（最终一致性）
+    - MQ队列（最终一致性）
+    - Saga（最终一致性）
 
 ##### 事务特性（ACID）
 - 原子性（atomicity）：事务是数据库的逻辑工作单位，而且是必须是原子工作单位，对于其数据修改，要么全部执行，要么全部不执行
@@ -29,6 +41,9 @@
 [XA协议JPA的实现原理（ThreadLocal）](https://my.oschina.net/xianggao/blog/548493)
 [不同的事务管理器说明3篇](https://www.jianshu.com/p/3938e7172443)
 [MySQL XA 介绍](https://www.jianshu.com/p/7003d58ea182)
+[mysql对XA协议的支持](https://www.cnblogs.com/dennyzhangdd/p/10975192.html)
+[atomikos JTA/XA全局事务](https://www.jianshu.com/p/842acb795e05)
+[XA事务的隔离级别算什么级别(serializable)](https://www.zhihu.com/question/58308824)
 
     
     
