@@ -9,7 +9,7 @@
 * [tomcat](technology/tomcat/index.md)
 * [spring](technology/spring/index.md)
 * [mybatis](technology/mybatis/index.md)
-* [dubbo]()  
+* [dubbo](technology/dubbo/index.md)  
 * [logging](technology/logger/index.md)
 
 ##### 大数据
