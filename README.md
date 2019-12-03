@@ -25,6 +25,7 @@
 * [熔断降级]()
 * [领域驱动](work/domain/index.md)
 * [网络协议(tcp/ip)](work/network/index.md)
+* [并发/设计模式/volatile/ThreadLocal使用案例](work/demo/index.md)
 
 ### **生活栏目**
 
