@@ -23,6 +23,8 @@
 * [业务架构](work/company/index.md)
 * [链路追踪]()
 * [熔断降级]()
+* [领域驱动](work/domain/index.md)
+* [网络协议(tcp/ip)](work/network/index.md)
 
 ### **生活栏目**
 
