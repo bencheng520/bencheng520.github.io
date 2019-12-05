@@ -28,6 +28,7 @@
 * [领域驱动](work/domain/index.md)
 * [网络协议(tcp/ip)](work/network/index.md)
 * [并发/设计模式/volatile/ThreadLocal使用案例](work/demo/index.md)
+* [线程状态和jstack日志分析](https://www.cnblogs.com/pc-boke/articles/9099029.html)
 
 ### **生活栏目**
 
