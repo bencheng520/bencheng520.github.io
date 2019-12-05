@@ -11,6 +11,7 @@
 * [mybatis](technology/mybatis/index.md)
 * [dubbo](technology/dubbo/index.md)  
 * [logging](technology/logger/index.md)
+* [redis淘汰+内存原理](https://www.cnblogs.com/mengchunchen/p/10039467.html)
 
 ##### 大数据
 
