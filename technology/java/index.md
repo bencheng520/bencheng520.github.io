@@ -7,7 +7,7 @@
 * [分布式锁](md/分布式锁.md)
 * [volatile关键字原理（happens-before）](https://www.cnblogs.com/fengzheng/p/9070268.html)
 * [hashmap]()
-* [jdk并发和锁](https://www.jianshu.com/p/31b6a0b1b84b)[ReentrantLock的实现原理](https://blog.csdn.net/qwe123zxcz/article/details/82748703)
+* [jdk并发和锁](md/jdk并发和锁.md)
 * [代理](md/proxy.md)
 * spi
     * jdk原生
