@@ -29,6 +29,10 @@
 * [网络协议(tcp/ip)](work/network/index.md)
 * [并发/设计模式/volatile/ThreadLocal使用案例](work/demo/index.md)
 * [线程状态和jstack日志分析](https://www.cnblogs.com/pc-boke/articles/9099029.html)
+* [IO多路复用的三种机制Select，Poll，Epoll](https://www.jianshu.com/p/397449cadc9a)
+    - [nginx面试题](https://blog.csdn.net/a303549861/article/details/88672901)
+* [mysql索引]()
+    - [关于mysql索引的B+树、聚簇索引、非聚簇索引、InnoDB、MyISAM之间的关系解析](https://blog.csdn.net/guanghuichenshao/article/details/81948438)
 
 ### **生活栏目**
 
