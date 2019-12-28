@@ -11,7 +11,13 @@
 * [mybatis](technology/mybatis/index.md)
 * [dubbo](technology/dubbo/index.md)  
 * [logging](technology/logger/index.md)
-* [redis淘汰+内存原理](https://www.cnblogs.com/mengchunchen/p/10039467.html)
+* redis
+    - [淘汰+内存原理](https://www.cnblogs.com/mengchunchen/p/10039467.html)
+    - [Redis 单线程模型介绍](https://cloud.tencent.com/developer/article/1403767)
+    - [Redis Cluster执行流程](https://blog.csdn.net/weixin_34452850/article/details/90442498)
+    - [redis cluster客户端映射表/网络分区](https://blog.csdn.net/liuxiao723846/article/details/86715614)
+    - [redis cluster/redis sharding/twemproxy](https://www.cnblogs.com/kuncy/p/9903482.html)
+    - [redis cap理论](https://www.cnblogs.com/summer108/p/9783033.html)
 
 ##### 大数据
 
