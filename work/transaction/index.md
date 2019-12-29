@@ -34,16 +34,16 @@
 
 
 ##### 文章要点
-[Sharding-JDBC与MyCat选型区别](https://www.jianshu.com/p/fdbaa2b6ba8d)
-[Spring通过atomikos实现JTA分布式事务](https://blog.csdn.net/weihao_/article/details/72782569)
-[Tomcat JNDI通过Atomikos 实现JTA](https://blog.csdn.net/xuyu_yt/article/details/77905553)
-[Sharding-JDBC柔性事务（最大努力型）原理](https://blog.csdn.net/weixin_34055787/article/details/91917214)
-[XA协议JPA的实现原理（ThreadLocal）](https://my.oschina.net/xianggao/blog/548493)
-[不同的事务管理器说明3篇](https://www.jianshu.com/p/3938e7172443)
-[MySQL XA 介绍](https://www.jianshu.com/p/7003d58ea182)
-[mysql对XA协议的支持](https://www.cnblogs.com/dennyzhangdd/p/10975192.html)
-[atomikos JTA/XA全局事务](https://www.jianshu.com/p/842acb795e05)
-[XA事务的隔离级别算什么级别(serializable)](https://www.zhihu.com/question/58308824)
+[Sharding-JDBC与MyCat选型区别](https://www.jianshu.com/p/fdbaa2b6ba8d)  
+[Spring通过atomikos实现JTA分布式事务](https://blog.csdn.net/weihao_/article/details/72782569)  
+[Tomcat JNDI通过Atomikos 实现JTA](https://blog.csdn.net/xuyu_yt/article/details/77905553)  
+[Sharding-JDBC柔性事务（最大努力型）原理](https://blog.csdn.net/weixin_34055787/article/details/91917214)  
+[XA协议JPA的实现原理（ThreadLocal）](https://my.oschina.net/xianggao/blog/548493)  
+[不同的事务管理器说明3篇](https://www.jianshu.com/p/3938e7172443)  
+[MySQL XA 介绍](https://www.jianshu.com/p/7003d58ea182)  
+[mysql对XA协议的支持](https://www.cnblogs.com/dennyzhangdd/p/10975192.html)  
+[atomikos JTA/XA全局事务](https://www.jianshu.com/p/842acb795e05)  
+[XA事务的隔离级别算什么级别(serializable)](https://www.zhihu.com/question/58308824)  
 
     
     
