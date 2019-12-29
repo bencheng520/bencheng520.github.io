@@ -18,6 +18,23 @@
     - [redis cluster客户端映射表/网络分区](https://blog.csdn.net/liuxiao723846/article/details/86715614)
     - [redis cluster/redis sharding/twemproxy](https://www.cnblogs.com/kuncy/p/9903482.html)
     - [redis cap理论](https://www.cnblogs.com/summer108/p/9783033.html)
+* kafka(系统订阅发布系统)
+    - [kafka0.9 自动提交rebalance](https://sq.163yun.com/blog/article/185482391401111552)
+    - [kafka0.9 网络抖动leader选举脑裂](https://zhuanlan.zhihu.com/p/92934790)
+    - [kafka producer consumer zookeeper 交互逻辑](https://blog.csdn.net/u010711294/article/details/82666564)
+    - [kafka metadata源码](https://blog.csdn.net/weixin_34342578/article/details/91602189)
+    - [kafka index log](https://my.oschina.net/anur/blog/2988177)
+    - [kafka为什么快](https://www.jianshu.com/p/7309b6bcacf9)
+        - 批量发送（同步异步）
+        - 顺序读写（节省磁盘io）
+        - [mmap内存映射的操作系统的page cache支持](https://www.jianshu.com/p/92f33aa0ff52)
+        - 消费者获取消息通过page cache共享文件从sendfile内核到socket内核最终到网卡
+        - topic多partition分区并行消费
+        - 采用pull模式拉取消息，可以依据消费者性能来控制拉取消息量
+     - kafka api版本
+        - [新版 API](https://www.jianshu.com/p/9e17d64bd8c7)[kafka的group coordinator](https://www.jianshu.com/p/833b64e141f8)
+        - [旧版高级 API](https://www.cnblogs.com/alexzhang92/p/10894800.html)
+        - [旧版低级 API](https://www.cnblogs.com/alexzhang92/p/10894800.html)
 
 ##### 大数据
 
