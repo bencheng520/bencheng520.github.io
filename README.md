@@ -35,6 +35,7 @@
         - [新版 API](https://www.jianshu.com/p/9e17d64bd8c7)[kafka的group coordinator](https://www.jianshu.com/p/833b64e141f8)
         - [旧版高级 API](https://www.cnblogs.com/alexzhang92/p/10894800.html)
         - [旧版低级 API](https://www.cnblogs.com/alexzhang92/p/10894800.html)
+     - [kafka streams](https://www.jianshu.com/p/bd90d815e48a)
 
 ##### 大数据
 
