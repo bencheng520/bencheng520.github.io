@@ -47,6 +47,11 @@
 
 ### **工作栏目**
 
+* [系统安全](https://www.jianshu.com/p/65e1e6f8648e)
+    - XSS跨站脚本攻击（通过Filter过滤基本的特殊字符）
+    - CSRF跨站点请求伪造(三种解决策略：验证 HTTP Referer 字段；在请求地址中添加 token 并验证；在 HTTP 头中自定义属性并验证）
+    - SQL注入攻击(参数化/防止动态sql拼接/加密重要数据)
+    - TCP SYNC攻击
 * [thrift基本原理及使用](https://blog.csdn.net/zkp_java/article/details/81879577)
 * [事务原理](work/transaction/index.md)
 * [业务架构](work/company/index.md)
