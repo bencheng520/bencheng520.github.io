@@ -31,6 +31,7 @@
         - 消费者获取消息通过page cache共享文件从sendfile内核到socket内核最终到网卡
         - topic多partition分区并行消费
         - 采用pull模式拉取消息，可以依据消费者性能来控制拉取消息量
+        - [kafka中的ISR、AR又代表什么](https://blog.csdn.net/weixin_43975220/article/details/93190906)
      - kafka api版本
         - [新版 API](https://www.jianshu.com/p/9e17d64bd8c7)[kafka的group coordinator](https://www.jianshu.com/p/833b64e141f8)
         - [旧版高级 API](https://www.cnblogs.com/alexzhang92/p/10894800.html)
