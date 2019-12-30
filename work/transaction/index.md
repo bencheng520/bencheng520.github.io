@@ -7,7 +7,7 @@
     - J2EE容器所提供的JTA实现(如JBoss)
     - 独立的JTA实现：如JOTM（Java Open Transaction Manager），Atomikos。这些实现可以应用在那些不使用J2EE应用服务器的环境里用以提供分布事事务保证
 * 分布式事务的实现方式
-    - 2pc（强一致性）
+    - 2pc（强一致性）[理解数据库中的undo日志、redo日志、检查点](https://www.cnblogs.com/l1pe1/p/8327849.html)
     - 3pc
     - tcc（最终一致性）
     - 本地消息表（最终一致性）
