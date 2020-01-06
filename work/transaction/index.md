@@ -34,6 +34,7 @@
 
 
 ##### 文章要点
+[Redlock：Redis分布式锁最牛逼的实现](https://www.jianshu.com/p/7e47a4503b87)  
 [Sharding-JDBC与MyCat选型区别](https://www.jianshu.com/p/fdbaa2b6ba8d)  
 [Spring通过atomikos实现JTA分布式事务](https://blog.csdn.net/weihao_/article/details/72782569)  
 [Tomcat JNDI通过Atomikos 实现JTA](https://blog.csdn.net/xuyu_yt/article/details/77905553)  
